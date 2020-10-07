@@ -18,11 +18,11 @@ Do the following:
    HINT: no function required
 */
 
-let votingAge = 18
-votingAge = 18
-if (votingAge >= 18)
-return true;
-console.log(true)
+let votingAge = 18;
+votingAge = 18;
+if (votingAge >= 18){
+
+console.log(true)}
 
 /*
 Task 1b - Values
